@@ -1,6 +1,6 @@
 {
-  "name": "eslint-7q",
-  "version": "1.0.0",
+  "name": "eslint-config-7q",
+  "version": "1.0.1",
   "description": "An Javascript ES5 ESLint config that following Airbnb ES5 Style Guide",
   "main": "index.js",
   "scripts": {
